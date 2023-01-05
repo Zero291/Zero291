@@ -3,7 +3,7 @@
 
 🧑 I am a long-life learning enthusiast, always eager to learn new things and a very curious person.
 
-💻 I work with HTML, CSS, JavaScript, and have created small projects with C#.
+💻 I work with HTML, CSS, JavaScript, and have created small projects with C++.
 
 🌐 You can find me on:
 
